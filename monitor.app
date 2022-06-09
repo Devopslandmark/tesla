@@ -1,3 +1,4 @@
 grafana
 newrelic
 ansible
+prometheus
