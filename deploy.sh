@@ -3,6 +3,7 @@ deployment is okay
 deployment is completed
 deployment is good master
 deployment is good
-deploy to staging
+deploy to stagingD
 echo great job
 tested and approved
+
